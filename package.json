@@ -1,0 +1,18 @@
+{
+  "name": "aws-ssm-decrypt",
+  "version": "1.0.0",
+  "description": "Decrypt AWS SSM string",
+  "main": "index.js",
+  "repository": "https://github.com/taoza/aws-ssm-decrypt.git",
+  "keywords": [
+    "aws",
+    "ssm",
+    "config",
+    "parameters"
+  ],
+  "author": "Tao Guo <taoguo1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.82.0"
+  }
+}
